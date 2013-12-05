@@ -1,0 +1,7 @@
+guid,Item Key Number,Version Code,Name,Display Name,Item ID,Value,Support Remarks,Type,Group ID,UI Controlled,Version-Build,Section,Client Specific,Affected Areas,Developer,Status
+ik1,0001,UK,'kkk,,233331,,,Unknown,General,,,,,,,Invalid Key
+ik2,0002,UK,'test',,233332,,,Unknown,General,,,,,,,Invalid Key
+ik3,0003,UK,AcceptedRxhubConsent,,1,Yes,Enable this Item key to enable transmission of prescription data for RxHub activity report.,Unknown,General,Yes - Practice Defaults > Interface tab,,System Setup,,Practice Defaults > Interface tab,,Info Completed
+ik4,0004,UK,AccessReportView,,0,No,"Set value to ""Yes"" to VIEW user-defined MS Access reports only - Enables EMR Access Log Report under the Reports tab. This report gives a log based on date range/per patient/per user/per staff.",Unknown,General,,,,,,,Info Completed
+ik5,0005,UK,AccountsLookup_MaxDays,,360,,"File > Practice Defaults > Performance tab > Accounts Lookup. When enabled, this Item Key displays a warning message if the service dates difference is more than the number of days specified in this field.",Unknown,General,Yes - File > Settings > Practice Defaults > Performance tab.,,Billing,,,,Info Completed
+/Users/paul/Dropbox/item_key_test_04272013.csv

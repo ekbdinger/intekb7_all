@@ -1,0 +1,7 @@
+Created this on my local machine on 04/27/2013
+
+did a basic import of about 5 rows.  Seems to work.
+
+Will need to make some of the fields "structured" though if I want to be able to filter on them.  Most of them I just made text fields to make sure it worked
+
+I also have a file called item_key_test_04272013.csv which I used to import via Feeds
